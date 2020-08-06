@@ -5,10 +5,10 @@ This repository contains writing samples from various courses throughout my degr
 ### General Writing and Presenting
 The final project for my Globalization course included a written report and a PowerPoint presentation with audio.  The written report, [Globalization and Food]( https://github.com/LesleyPLangdon/WritingSamples/blob/master/GlobalizationFinalProjectPartOne.docx) is a fun read with interesting food history facts.  It also shows my writing style and source referencing. The PowerPoint presentation, [Event Triggered Hunger]( https://github.com/LesleyPLangdon/WritingSamples/blob/master/GlobalizationFinalProjectSlidePresentation.pptx) is an example of both visual and verbal communication.
 
-###Data Projects
+### Data Projects
 Examples of my writings in Data related courses include a [Gap Analysis]( https://github.com/LesleyPLangdon/WritingSamples/blob/master/DAT300GapAnalysis.docx) and the [final project]( https://github.com/LesleyPLangdon/WritingSamples/blob/master/FinalProjectFundamentalsOfDataMining.docx) from my Fundamentals of Data Mining course.  These, again, show my ability to communicate in writing as well as my understanding of these topics.
 
-###Software Design and Development
+### Software Design and Development
 I have included several samples in this category to show different types of written communication required in various circumstances.
 The [Code Reflection]( https://github.com/LesleyPLangdon/WritingSamples/blob/master/CodeReflectionPseudocodeAndTesting.docx) shows problem solving techniques, a pseudocode example, and displays some sample output in a clear and easy to read manner.
 
